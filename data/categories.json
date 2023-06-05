@@ -1,34 +1,27 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
-    },
-    {
-      "id": "02",
-      "name": "Regular News"
-    },
-    {
-      "id": "03",
-      "name": "International News"
+      "name": "Breaking News",
+      "date":"April 14, 2023"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Sports",
+      "date":"April 14, 2023"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Entertainment",
+      "date":"April 14, 2023"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
+      "name": "Fashion",
+      "date":"April 14, 2023"
     },
     {
       "id": "08",
-      "name": "All News"
+      "name": "All News",
+      "date":"April 14, 2023"
     }
   ]
